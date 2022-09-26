@@ -1,0 +1,83 @@
+h1{
+                display: block;
+                color: black;
+                font-family: 'Brush Script MT', 'Brush Script Std', cursive;
+                font-size: 55px;
+                line-height: 1em;
+                margin-bottom: 7px;
+                justify-content: center;
+                text-align: center;
+            }
+h2{
+                display: block;
+                color:darkblue;
+                font-family: 'Courier New', monospace;
+                font-size: 15px;
+                line-height: 1em;
+                margin-bottom: 7px;
+                justify-content: center;
+                text-align: center;
+            } 
+header{
+                background-image: url("https://oir.mobi/uploads/posts/2019-12/1575948669_1-1.jpg");
+                background-size: 100%;
+                background-position: center;
+                height: 650px;
+                padding: 20px;
+                text-align: center;
+}
+header a {
+                color: black;
+                text-decoration: none;
+                text-transform: uppercase;
+                margin-top: 40px;
+}
+section{
+     text-align: center;
+}
+ul li{
+    display: inline-block;
+    background-color:coral;
+    color: white;
+    font-family: 'Josefin Sans';
+    text-transform: uppercase;
+    margin: auto;
+    width: 200px;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.Vlada{
+    background-image: url("https://krasivosti.pro/uploads/posts/2021-04/thumbs/1617924816_1-p-malenkii-milii-kotenok-2.jpg");
+}
+header.Vlada{
+    background-image: none;
+}
+body.Vlad{
+    background-image: url("https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/content/cover_image_file/cover_image/954511/retina_1708x683_COVER-4076ae1aee30e36dadb2e6b3ca16687f.png");
+    background-size: 100%;
+}
+.Vlad h2{
+    color: white;
+}
+body.Nadiia{
+    background-image: url("https://img.freepik.com/premium-photo/pink-rose-flowers-with-petals-table_23-2148067816.jpg?w=2000");
+    background-size: 100%;
+}
+.Nadiia h2{
+    color: fuchsia;
+}
+.Nadiia header{
+    background-image: none;
+}
+body.Olexander{
+    background-image: url("https://www.careertoolbelt.com/wp-content/uploads/2020/01/iStock-910630576.jpg");
+    background-size: 100%;
+}
+.Olexander header{
+    background-image: none;
+}
+.Olexander h2{
+    color: black;
+}
